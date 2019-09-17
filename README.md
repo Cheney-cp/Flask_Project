@@ -22,14 +22,14 @@
              5.创建相册
              6.查看相册内容
 
-![](meidia/项目文档(初稿).png)
+![](media/项目文档(初稿).png)
 
-![](meidia/回收站.png)
+![](media/回收站.png)
 
-![相册](meidia/相册.png)
+![相册](media/相册.png)
 
-![首页](meidia/首页.png)
+![首页](media/首页.png)
 
-![新建相册](meidia/新建相册.png)
+![新建相册](media/新建相册.png)
 
-![主界面](meidia/主界面.png)
+![主界面](media/主界面.png)
