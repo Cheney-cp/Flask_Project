@@ -22,14 +22,14 @@
              5.创建相册
              6.查看相册内容
 
-![](/home/tarena/桌面/项目文档/项目文档(初稿).png)
+![](meidia/项目文档(初稿).png)
 
-![](/home/tarena/桌面/项目文档/回收站.png)
+![](meidia/回收站.png)
 
-![相册](/home/tarena/桌面/项目文档/相册.png)
+![相册](meidia/相册.png)
 
-![首页](/home/tarena/桌面/项目文档/首页.png)
+![首页](meidia/首页.png)
 
-![新建相册](/home/tarena/桌面/项目文档/新建相册.png)
+![新建相册](meidia/新建相册.png)
 
-![主界面](/home/tarena/桌面/项目文档/主界面.png)
+![主界面](meidia/主界面.png)
