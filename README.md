@@ -4,8 +4,9 @@
         python3.6
         flask
         mysql
-        
+
   
+
     所具备功能(参考类似产品http://www.clantu.com):
        用户账号模块:
              1.注册
@@ -20,4 +21,15 @@
              4.删除相册
              5.创建相册
              6.查看相册内容
-             
+
+![](/home/tarena/桌面/项目文档/项目文档(初稿).png)
+
+![](/home/tarena/桌面/项目文档/回收站.png)
+
+![相册](/home/tarena/桌面/项目文档/相册.png)
+
+![首页](/home/tarena/桌面/项目文档/首页.png)
+
+![新建相册](/home/tarena/桌面/项目文档/新建相册.png)
+
+![主界面](/home/tarena/桌面/项目文档/主界面.png)
